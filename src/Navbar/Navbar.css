@@ -1,0 +1,53 @@
+.Navbar{
+    background-color: #010106;
+    color: #EEEBEE;
+    display: flex;
+
+        /* width: 110%;
+        padding-right: 110px; */
+       
+}
+
+.Logo{
+    padding-top: 40px;
+    padding-bottom: 23px;
+    padding-left: 60px;
+}
+
+.ul{
+    display: flex;
+    font-size: 24px;
+    font-weight: 700;
+    gap: 48px;
+    /* border: 2px solid white; */
+    margin-top: 83px;
+    margin-left: 100px;
+}
+
+.li{
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+    color: #EEEBEE;
+}
+
+li a.active{
+    text-decoration: underline;
+}
+
+/* .highlited{
+    color: red;
+    text-decoration: underline;
+}
+li.active{
+    color: red;
+}
+
+Link.active{
+    color: red;
+}
+nav Link.active{
+    text-decoration: underline;
+} */

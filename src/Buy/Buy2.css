@@ -1,0 +1,121 @@
+.popup1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 1440px;
+      height: 640px; */
+  }
+  
+  .popup-content1 {
+    background: #1f1f1f;
+    /* padding: 20px; */
+    /* width: 600px; */
+    border-radius: 8px;
+    text-align: center;
+    width: 1200px;
+    height: 640px;
+  
+  }
+  
+  .popup-content p {
+    color: white;
+  }
+  
+  .back {
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    /* margin-left: 94px;  */
+  }
+  
+  .back1 {
+    /* border: 2px solid blue; */
+    margin-left: 718px;
+    width: 195px;
+    height: 41px;
+    color: #EEEBEE;
+    background-color: #1f1f1f;
+    text-align: center;
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  
+  /* .main{
+      border: 2px solid blue;
+    } */
+  
+  .Div1 {
+    color: white;
+    /* border: 2px solid blue; */
+    margin-top: 45px;
+    margin-left: 50px;
+  }
+  
+  .main2 {
+    /* border: 2px solid red; */
+    color: white;
+    margin-top: 45px;
+    margin-left: 50px;
+    text-align: left;
+    padding-left: 50px;
+    /* display: inline-block; */
+  }
+  
+  .main2 h6{
+  display: inline-block;
+  border-radius: 9px;
+  color: #EEEBEE;
+  font-family: Heebo;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  
+  }
+  
+  .main2 input{
+    margin-left: 200px;
+    width: 35px;
+  }
+  
+  .main2 .me-5{
+    margin-left: 336px;
+    width: 35px;
+  }
+  
+  .theMain {
+    display: flex;
+  }
+  
+  .b1 {
+    width: 211px;
+    height: 70px;
+    font-size: 22px;
+  }
+  
+  #price{
+    margin-left: 288px;
+  }
+  
+  #OK{
+    border-radius: 8px;
+    padding: 4px 24px;
+    color: #EEEBEE;
+    background-color: green;
+  }
+  
+  #Not{
+    border-radius: 8px;
+    padding: 4px 24px;
+    color: #EEEBEE;
+    background-color: red;
+    margin-left: 50px;
+  }

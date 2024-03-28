@@ -1,0 +1,82 @@
+.card {
+    width: 354px;
+    /* height: 587px; */
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #EEEBEE;
+    background: #EEEBEE;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.card-body {
+    padding-left: 34px;
+}
+
+.card-title {
+    color: #673392;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.card-content-1 {
+    color: #673392;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    /* line-height: 30px; */
+}
+
+.card-content-2 {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 3px;
+}
+
+.card-text {
+    color: #000;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+span {
+    font-weight: 700;
+}
+
+.btn {
+    border-radius: 10px;
+    background: #673392;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #EEEBEE;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 13px 18px 13px 18px;
+}
+
+.Part3 {
+    margin-top: 80px;
+    height: 350px;
+}
+
+.Discover {
+    color: #EEEBEE;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.Top{
+    color: #EEEBEE;
+    /* text-align: end; */
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.Back{
+    margin-left: 80%;
+    margin-top: 10%;
+    text-align: center;
+}

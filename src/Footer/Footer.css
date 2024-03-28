@@ -1,0 +1,48 @@
+.Footer {
+    background-color: #010106;
+    color: #EEEBEE;
+    overflow-x: hidden;
+}
+
+.fComponent {
+    /* border: 2px solid red; */
+    padding-top: 50px;
+    margin-left: 110px;
+}
+
+.fComponent2 {
+    display: flex;
+    justify-content: space-around;
+    /* border: 2px solid red; */
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.Copyright {
+    padding: 0px 0px 50px 0px;
+    text-align: center;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Icons {
+    /* border: 2px solid; */
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    margin-left: 123px;
+}
+
+.Heading {
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.head {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+}

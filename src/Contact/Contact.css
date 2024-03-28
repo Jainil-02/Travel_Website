@@ -1,0 +1,121 @@
+.Contact {
+    background-color: #1f1f1f;
+    color: white;
+}
+
+iframe {
+    width: 613px;
+    height: 396px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    margin-right: 90px;
+
+}
+
+.ContactBG{
+    background-image: url('Rectangle 1 (4).png');
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ContactBG h1{
+    font-size: 80px;
+}
+
+.Co1 h1{
+    color: #EEEBEE;
+    text-align: center;
+    font-family: Heebo;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.Co1 h3{
+    color: #EEEBEE;
+
+text-align: center;
+font-family: Heebo;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 125% */
+letter-spacing: 2px;
+}
+
+.Co1 p{
+    color: #EEEBEE;
+
+font-family: Heebo;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: 50px; /* 156.25% */
+letter-spacing: 1.6px;
+}
+
+.Co2 h3{
+    color: #EEEBEE;
+
+font-family: Heebo;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.9px;
+}
+
+.Co2 p{
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px; /* 178.571% */
+    letter-spacing: 1.4px;
+}
+
+.Co2 label{
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px; /* 178.571% */
+    letter-spacing: 1.4px;
+}
+
+.Co2{
+    margin-bottom: 150px;
+}
+
+.Co2 span{
+    margin-left: 260px;
+}
+
+.Co1{
+    margin-bottom: 70px;
+}
+
+.Co2 input{
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+.ContactC1 {
+    /* border: 2px solid white; */
+    margin-bottom: 80px;
+    margin-top: -70px;
+    
+}
+.ContactC1 p {
+    /* border: 2px solid white; */
+    margin-left: 120px;
+    /* margin-bottom: 60px; */
+    
+}
