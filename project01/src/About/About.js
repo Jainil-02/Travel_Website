@@ -10,7 +10,7 @@ function About(){
             </div>
         
             <div>
-                <p className='container para'>At  Safari, our mission is to make the wonders of the night sky accessible to everyone. Located in one of the best stargazing spots in New Zealand, we offer a range of unforgettable experiences.</p>
+                <p className='container para'>At Star Safari, our mission is to make the wonders of the night sky accessible to everyone. Located in one of the best stargazing spots in New Zealand, we offer a range of unforgettable experiences.</p>
             </div>
 
             <br></br>
