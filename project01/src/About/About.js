@@ -6,7 +6,7 @@ function About(){
         <>
         <div className='About'>
             <div className="BgImg">
-                <p>About Star Safari</p>
+                <p>About Star Safari website</p>
             </div>
         
             <div>
