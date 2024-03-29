@@ -1,0 +1,53 @@
+.Comp2{
+    background: #1F1F1F;
+}
+
+.Cont1{
+    padding: 75px 75px 0px 75px;
+    /* border: 2px solid white; */
+}
+
+.Cont2{
+    padding: 0px 75px 0px 75px;
+    /* border: 2px solid white; */
+}
+
+.Cont3{
+    padding: 0px 75px 0px 75px;
+    /* border: 2px solid white; */
+}
+
+hr{
+    color: white;
+}
+
+.p1{
+    text-align: center;
+    color: #EEEBEE;
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.p2{
+    color: #EEEBEE;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.p3{
+    color: #EEEBEE;
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.p4{
+    color: #EEEBEE;
+    font-size: 38px;
+    font-weight: 400;
+}
+
+.p5{
+    color: #EEEBEE;
+    font-size: 32px;
+    font-weight: 400;
+}

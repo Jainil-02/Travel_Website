@@ -1,0 +1,139 @@
+.BackGround {
+    background-image: url(Rectangle\ 31.png);
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.head1 {
+    color: #EEEBEE;
+    text-align: center;
+    font-family: Heebo;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+.Tours {
+    background-color: #1F1F1F;
+    color: #EEEBEE;
+    text-align: center;
+}
+
+.tt {
+    background-color: #1f1f1f;
+    color: #1F1F1F;
+    padding: 0px 120px;
+    margin-top: 70px;
+
+}
+
+/* #carouselExampleControls{
+    height: 400px;
+} */
+
+.para1 {
+    margin-top: 190px;
+}
+
+.c1 {
+    text-align: left;
+}
+
+
+.cc {
+    background-color: white;
+    min-height: 714px;
+}
+
+#h1 {
+    color: #EEEBEE;
+
+    text-align: center;
+    font-family: Heebo;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#h2 {
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    /* 125% */
+    letter-spacing: 2px;
+}
+
+#cardH {
+    color: #673392;
+
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #EEEBEE;
+    font-family: Heebo;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#cardh3 {
+    color: #010106;
+
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+/* #cardh3 {
+    color: #010106;
+
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+} */
+
+#cardp1 {
+    color: #010106;
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cardp2 {
+    color: rgba(1, 1, 6, 0.92);
+
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    /* 156.25% */
+    letter-spacing: 1.6px;
+
+    text-align: left;
+}
+
+#MainCard {
+    /* border: 2px solid; */
+    /* justify-content: start; */
+    text-align: left;
+    /* padding: 180px; */
+    height: 350px;
+}
+
+.cardInfo{
+    /* border: 2px solid; */
+    margin-bottom: 170px;
+}

@@ -1,0 +1,68 @@
+.Learn {
+    background-color: #1F1F1F;
+    color: #EEEBEE;
+}
+
+.LbgImg p {
+    color: #EEEBEE;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.LbgImg {
+    background-image: url('Rectangle 1 (2).png');
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.LearnH {
+    margin: 100px 195px 0px 195px;
+}
+
+.LearnH h1 {
+    color: #EEEBEE;
+
+    text-align: center;
+    font-family: Heebo;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.LearnH p {
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    /* 125% */
+    letter-spacing: 2px;
+}
+
+.LearnH2 h1 {
+    text-align: center;
+}
+
+.learnBtn {
+    color: #673392;
+
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #EEEBEE;
+    font-family: Heebo;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.LearnH2 a{
+    text-decoration: none;
+}

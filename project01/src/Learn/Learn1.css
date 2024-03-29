@@ -1,0 +1,65 @@
+.First {
+    /* margin: 0px 170px; */
+    background-color: #1f1f1f;
+    color: white;
+    padding-bottom: 180px;
+}
+
+.One {
+    margin: 0px 100px;
+}
+
+.One h1 {
+    color: #EEEBEE;
+
+    text-align: center;
+    font-family: Heebo;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.One p {
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    /* 156.25% */
+    letter-spacing: 1.6px;
+}
+
+.Two p {
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    /* 156.25% */
+    letter-spacing: 1.6px
+}
+
+.aa {
+    color: #EEEBEE;
+
+    font-family: Heebo;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Learn3Ph {
+    width: 1130px;
+    height: 560px;
+}
+
+.Learn3p {
+    width: 436px;
+    height: 269px;
+}
